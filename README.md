@@ -1,13 +1,15 @@
-<h1>Hi, I'm Jide! <br/><a href="[https://github.com/oawelewa]">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Passionate Cybersecurity Professional</a>
+<h1>Hi, I'm Jide! Passionate Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
+- <b>Azure / Cloud Cybersecurity Projects </b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/oawelewa/Azure-SOC-) 
 
-
-[linkedin]:https://www.linkedin.com/in/olajideawelewa/
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/olajideawelewa/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oawelewa/oawelewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
